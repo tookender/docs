@@ -59,7 +59,8 @@
                     "resources/message_id",
                     "resources/syntax",
                     "resources/variables",
-                    "resources/embed_layout"
+                    "resources/embed_layout",
+                    "resources/colors"
                 ]
             }
         ]
